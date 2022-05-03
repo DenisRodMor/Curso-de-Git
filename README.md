@@ -1,2 +1,2 @@
 # Curso-de-Git
-LIGA DEPORTIVA ALAJUELENSE
+Practica de GIT como subir y crear repositorios
